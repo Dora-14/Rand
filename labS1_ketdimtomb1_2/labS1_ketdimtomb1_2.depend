@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633970224 source:c:\users\user\desktop\lab2\labs1_ketdimtomb1_2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
